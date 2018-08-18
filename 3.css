@@ -85,23 +85,3 @@ p{
 
   }
 
- @keyframes rainbow {
-   0%{
-     background-color: #0000ff;
-   }
-   20%{
-     background-color: #ff00bf;
-   }
-   40%{
-     background-color: #ffbf00;
-   }
-   60%{
-     background-color: #00ff00;
-   }
-   80%{
-     background-color: #00ffff
-   }
-   100%{
-     background-color: #0000ff;
-   }
- }
